@@ -33,5 +33,5 @@ THMs are chemicals which may be found in water treated with chlorine. The concen
 ## 9. Turbidity:
 The turbidity of water depends on the quantity of solid matter present in the suspended state. It is a measure of light emitting properties of water and the test is used to indicate the quality of waste discharge with respect to colloidal matter. The mean turbidity value obtained for Wondo Genet Campus (0.98 NTU) is lower than the WHO recommended value of 5.00 NTU.
 
-## 10. Potability:
+## 10. Potability/Target:
 Indicates if water is safe for human consumption where 1 means Potable and 0 means Not potable.
